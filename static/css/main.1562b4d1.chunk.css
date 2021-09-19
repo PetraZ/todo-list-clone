@@ -1,0 +1,2 @@
+.todo-item{width:200px;display:flex;justify-content:space-between;border:1px solid #000;margin:px;background-color:#ff0}.todo-item.isDone{background-color:green}.todo-item:hover{background-color:grey}.todo-item__delete_button{justify-self:end;float:inline-end}.todo-summary{width:300px;margin-top:20px;display:flex;justify-content:space-between}.app{width:500px;display:flex;flex-direction:column;align-items:center}.app,.item-addition-bar{border:1px solid #000}
+/*# sourceMappingURL=main.1562b4d1.chunk.css.map */
