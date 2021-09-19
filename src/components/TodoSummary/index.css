@@ -1,0 +1,6 @@
+.todo-summary {
+  width: 300px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
