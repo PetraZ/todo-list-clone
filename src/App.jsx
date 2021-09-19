@@ -23,7 +23,7 @@ export default class App extends Component {
 
     createTask = (name) => {
         if(name === "") {
-            alert("cannot create a empty task")
+            alert("cannot create an empty task")
             return
         }
         this.setState(
